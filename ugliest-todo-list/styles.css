@@ -1,0 +1,28 @@
+body {
+  background-color: #202020;
+  color: #fff;
+}
+
+h1 {
+  color: #bada55;
+}
+
+#ugliest-accepting {
+  border: 2px solid #fff;
+}
+
+.item {
+  background-color: rgba(0, 50, 200, 0.6);
+}
+
+.first-item {
+  color: #ff3030;
+}
+
+.third-item {
+  color: #00ff00;
+}
+
+span {
+  text-decoration: underline;
+}
