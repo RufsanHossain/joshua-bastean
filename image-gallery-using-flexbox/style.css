@@ -1,0 +1,22 @@
+h1 {
+  font-family: "Trade Winds", system-ui, sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  font-style: normal;
+  border-bottom: 2px solid #115598;
+  margin: 2% 2%;
+}
+
+img {
+  min-width: 20rem;
+  max-width: 30%;
+  max-height: 45vh;
+  margin: 0 1rem 3rem 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
